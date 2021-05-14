@@ -1,0 +1,10 @@
+{
+  "name": "test-app",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "tslib": "^2.0.0",
+    "zone.js": "~0.10.2"
+  }
+}
